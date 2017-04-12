@@ -13,7 +13,7 @@ Netty, LocalServerChannel
 Compile: <br />
 *mvn clean compile*
 
-Run Server and Clent: <br />
+Run Server and Client: <br />
 *mvn exec:java -Dexec.mainClass="io.netty.example.localecho.LocalEcho"*
 
 
